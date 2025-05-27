@@ -1,0 +1,28 @@
+{
+  "nombre": "crisis_fisica",
+  "UID": "123456789",
+  "fecha": "2023-10-01",
+  "form": "crisis_fisica",
+  "respuestas": [
+    {
+      "pregunta": "¿Has tenido alguna crisis física en el último mes?",
+      "respuesta": "Sí"
+    },
+    {
+      "pregunta": "¿Has tenido alguna crisis física en el último mes?",
+      "respuesta": "Sí"
+    },
+    {
+      "pregunta": "¿Has tenido alguna crisis física en el último mes?",
+      "respuesta": "Sí"
+    },
+    {
+      "pregunta": "¿Has tenido alguna crisis física en el último mes?",
+      "respuesta": "Sí"
+    },
+    {
+      "pregunta": "¿Has tenido alguna crisis física en el último mes?",
+      "respuesta": "Sí"
+    }
+  ]
+}

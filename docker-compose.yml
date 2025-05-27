@@ -1,0 +1,17 @@
+services:
+  painpal_api:
+    image: golang:1.22
+    container_name: painpal_api
+    working_dir: /app
+    volumes:
+      - ./:/app
+    ports:
+      - "5001:5001"
+    env_file:
+      - .env
+    command: >
+      sh -c "
+        go mod tidy &&
+        go mod download &&
+        go run main.go
+      "
